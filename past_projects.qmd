@@ -8,7 +8,7 @@ title: "Past Projects Showcase"
 
 This project examines how socioeconomic hardship affects library
 visits across Chicago neighborhoods from 2013 to 2023. I used random
-forest modeling and k-means clustering to identify factors associated
+forest modeling and k-means clustering in R to identify factors associated
 with library visitation and explore geographic disparities in library
 access across Chicago communities.
 
@@ -30,7 +30,7 @@ access across Chicago communities.
 
 ## Engagement Report
 
-<p class="project-meta">Summer 2025</p>
+<p class="project-meta">August 2025</p>
 
 This report examines conference attendance and feedback in London,
 Washington, D.C., and Toronto to identify trends in engagement and

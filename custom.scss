@@ -1,0 +1,34 @@
+
+/*-- scss:defaults --*/
+
+// Professional navy and teal palette
+$primary: #243B53;
+$link-color: #167D8D;
+
+// Font sizes using relative units
+$font-size-root: 1rem;
+$h1-font-size: 2.25rem;
+$h2-font-size: 1.75rem;
+$h3-font-size: 1.35rem;
+
+// Background and text colors
+$body-bg: #F7F8FA;
+$body-color: #293746;
+
+/*-- scss:rules --*/
+
+// Improve readability
+body {
+  line-height: 1.65;
+}
+
+// Consistent heading style
+h1, h2, h3 {
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+// Link hover effect
+a:hover {
+  color: #105B66;
+}
