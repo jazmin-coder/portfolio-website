@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - resume.pdf
 website:
   title: "Data Analyst Portfolio"
   navbar:

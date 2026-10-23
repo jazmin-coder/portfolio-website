@@ -1,11 +1,37 @@
 ---
-title: "portfolio website"
+title: "Jazmín Calimano Colón"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jazmincalimano@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com/jazmin-coder
+    - icon: file-text
+      text: Resume
+      href: resume.pdf
 ---
 
-This is a Quarto website.
+Jazmín transitioned from scientific research, holding a B.S. in Chemistry, into the civic tech space to merge her technical background with her dedication to community building. Based in Chicago and pursuing a degree in Civic Analytics, she is passionate about leveraging data research with R to uncover insights, solve urban challenges, and elevate nonprofit and civic initiatives.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of Puerto Rico, Rio Piedras Campus | San Juan, PR
+B.S. in Chemistry | May 2019
+
+University of Illinois, Chicago | Chicago, IL
+M.S. in Civic Analytics | expected May 2027
+
+## Data Experience
+
+Great Cities Institute | Research Assistant | October 2026 - present
+
+BUILD Chicago | Data and Impact Intern | October 2025 - May 2026
+
+Engaging Networks | Data and Operations Intern | Summer 2025
+
