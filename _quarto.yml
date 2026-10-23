@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Data Analyst Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: past_projects.qmd
+        text: Past Project Showcase
+  sidebar:
+    style: docked
+    search: true
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
