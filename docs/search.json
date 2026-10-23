@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "portfolio website",
+    "title": "Jazmín Calimano Colón",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Jazmín transitioned from scientific research, holding a B.S. in Chemistry, into the civic tech space to merge her technical background with her dedication to community building. Based in Chicago and pursuing a degree in Civic Analytics, she is passionate about leveraging data research with R to uncover insights, solve urban challenges, and elevate nonprofit and civic initiatives."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jazmín Calimano Colón",
+    "section": "Education",
+    "text": "Education\nUniversity of Puerto Rico, Rio Piedras Campus | San Juan, PR B.S. in Chemistry | May 2019\nUniversity of Illinois, Chicago | Chicago, IL M.S. in Civic Analytics | expected May 2027"
+  },
+  {
+    "objectID": "index.html#data-experience",
+    "href": "index.html#data-experience",
+    "title": "Jazmín Calimano Colón",
+    "section": "Data Experience",
+    "text": "Data Experience\nGreat Cities Institute | Research Assistant | October 2026 - present\nBUILD Chicago | Data and Impact Intern | October 2025 - May 2026\nEngaging Networks | Data and Operations Intern | Summer 2025"
   }
 ]
