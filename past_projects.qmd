@@ -1,3 +1,56 @@
 ---
 title: "Past Projects Showcase"
 ---
+
+## Evaluating Neighborhood Equity in Chicago's Library System
+
+<p class="project-meta">May 2026</p>
+
+This project examines how socioeconomic hardship affects library
+visits across Chicago neighborhoods from 2013 to 2023. I used random
+forest modeling and k-means clustering to identify factors associated
+with library visitation and explore geographic disparities in library
+access across Chicago communities.
+
+<a href="projects/ml_report2025.pdf"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="btn btn-primary">
+  Download Full Report (PDF)
+</a>
+
+<iframe
+  src="projects/ml_report2025.pdf"
+  width="100%"
+  height="800"
+  style="border: none;">
+</iframe>
+
+---
+
+## Engagement Report
+
+<p class="project-meta">Summer 2025</p>
+
+This report examines conference attendance and feedback in London,
+Washington, D.C., and Toronto to identify trends in engagement and
+attendee experience. I used Microsoft Excel to analyze the data and
+identify patterns, then created visualizations in Canva to communicate
+the findings effectively.
+
+This project demonstrates my skills in data analysis, trend
+identification, and visual storytelling to support decision-making.
+
+<a href="projects/encc_report.pdf"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="btn btn-primary">
+  Download Full Report (PDF)
+</a>
+
+<iframe
+  src="projects/encc_report.pdf"
+  width="100%"
+  height="800"
+  style="border: none;">
+</iframe>

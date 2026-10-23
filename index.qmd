@@ -15,6 +15,9 @@ about:
     - icon: file-text
       text: Resume
       href: resume.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jcalimano/
 ---
 
 Jazmín transitioned from scientific research, holding a B.S. in Chemistry, into the civic tech space to merge her technical background with her dedication to community building. Based in Chicago and pursuing a degree in Civic Analytics, she is passionate about leveraging data research with R to uncover insights, solve urban challenges, and elevate nonprofit and civic initiatives.

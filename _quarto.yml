@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources:
     - resume.pdf
+    - encc_report.pdf
+    - ml_report2025.pdf
 website:
   title: "Data Analyst Portfolio"
   navbar:
