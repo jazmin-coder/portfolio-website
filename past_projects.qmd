@@ -1,5 +1,6 @@
 ---
 title: "Past Projects Showcase"
+format: html
 ---
 
 ## Evaluating Neighborhood Equity in Chicago's Library System
@@ -19,12 +20,18 @@ access across Chicago communities.
   Download Full Report (PDF)
 </a>
 
-<iframe
-  src="projects/ml_report2025.pdf"
-  width="100%"
-  height="800"
-  style="border: none;">
-</iframe>
+::: {.panel-tabset}
+
+### Exploratory Data Analysis
+![The scatterplot shows a negative trend between a community's hardship index and the average annual visits to their local libraries. As hardship in a community increases, residents are less likely to use library services. This indicates that economic difficulties may reduce community involvement with library resources.](images/graph1.png){width=62%}
+
+### Cluster Insights
+![This chart shows how the three clusters compare to the city average.](images/graph2.png){width=57%}
+
+### Chicago Map
+![Spatial distribution of clusters using Leaflet.](images/plot_map.png){width=62%}
+
+:::
 
 ---
 

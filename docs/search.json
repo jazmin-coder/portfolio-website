@@ -32,7 +32,7 @@
     "href": "past_projects.html",
     "title": "Past Projects Showcase",
     "section": "",
-    "text": "May 2026\n\nThis project examines how socioeconomic hardship affects library visits across Chicago neighborhoods from 2013 to 2023. I used random forest modeling and k-means clustering in R to identify factors associated with library visitation and explore geographic disparities in library access across Chicago communities.\n Download Full Report (PDF)"
+    "text": "May 2026\n\nThis project examines how socioeconomic hardship affects library visits across Chicago neighborhoods from 2013 to 2023. I used random forest modeling and k-means clustering in R to identify factors associated with library visitation and explore geographic disparities in library access across Chicago communities.\n Download Full Report (PDF) \n\nExploratory Data AnalysisCluster InsightsChicago Map\n\n\n\n\n\nThe scatterplot shows a negative trend between a community’s hardship index and the average annual visits to their local libraries. As hardship in a community increases, residents are less likely to use library services. This indicates that economic difficulties may reduce community involvement with library resources.\n\n\n\n\n\n\n\nThis chart shows how the three clusters compare to the city average.\n\n\n\n\n\n\n\nSpatial distribution of clusters using Leaflet."
   },
   {
     "objectID": "past_projects.html#engagement-impact-report",
@@ -53,7 +53,7 @@
     "href": "past_projects.html#evaluating-neighborhood-equity-in-chicagos-library-system",
     "title": "Past Projects Showcase",
     "section": "",
-    "text": "May 2026\n\nThis project examines how socioeconomic hardship affects library visits across Chicago neighborhoods from 2013 to 2023. I used random forest modeling and k-means clustering in R to identify factors associated with library visitation and explore geographic disparities in library access across Chicago communities.\n Download Full Report (PDF)"
+    "text": "May 2026\n\nThis project examines how socioeconomic hardship affects library visits across Chicago neighborhoods from 2013 to 2023. I used random forest modeling and k-means clustering in R to identify factors associated with library visitation and explore geographic disparities in library access across Chicago communities.\n Download Full Report (PDF) \n\nExploratory Data AnalysisCluster InsightsChicago Map\n\n\n\n\n\nThe scatterplot shows a negative trend between a community’s hardship index and the average annual visits to their local libraries. As hardship in a community increases, residents are less likely to use library services. This indicates that economic difficulties may reduce community involvement with library resources.\n\n\n\n\n\n\n\nThis chart shows how the three clusters compare to the city average.\n\n\n\n\n\n\n\nSpatial distribution of clusters using Leaflet."
   },
   {
     "objectID": "past_projects.html#engagement-report-summer-2025",
