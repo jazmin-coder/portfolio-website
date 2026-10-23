@@ -20,9 +20,9 @@ format:
   html:
     theme:
       - lux
-      - custom.scss
-    css: styles.css
-    toc: true
+      - custom.scss #created a custom.scss file with ChatGpt's help with syntax. 
+    css: styles.css #Chose colors that reflect professionalism like dark grey, white, and teal.
+    toc: true 
 
 editor: visual
 
